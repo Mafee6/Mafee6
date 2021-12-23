@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi, I am Mafee7
+#### I am a programmer. My favourite programming langauges are JavaScript, Java and NodeJS.
 
-<!--
-**Mafee6/Mafee6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> I make Websites<br>
+> I make Java Apps<br>
+> I have made a discord bot - Mafee Bot 1.5
 
-Here are some ideas to get you started:
+### Stats: 
+<img src="https://komarev.com/ghpvc/?username=mafee6">  
+<img src="https://github-readme-stats.vercel.app/api?username=mafee6&layout=compact&theme=dark&show_icons=true&hide_border=true&private=true">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Github Top Langs: (only on github)
+<img src="https://github-readme-stats-aemiej.vercel.app/api/top-langs/?username=mafee6&layout=compact&theme=dark&show_icons=true&hide_border=true&private=true">
