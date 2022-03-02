@@ -4,6 +4,7 @@
 > I make Websites<br>
 > I make Java Apps<br>
 > I have made a discord bot - Mafee Bot 1.5
+> Learning React
 
 ### Stats: 
 <img src="https://komarev.com/ghpvc/?username=mafee6">  
