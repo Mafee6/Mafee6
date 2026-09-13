@@ -1,10 +1,5 @@
 ## Hi, I am Mafee7
-#### I am a programmer. My favourite programming langauges are JavaScript, Java and NodeJS.
-
-> I make Websites<br>
-> I make Java Apps<br>
-> I have made a discord bot - Mafee Bot 1.5
-> Learning React
+#### One thing I love to do is - to code!
 
 ### Stats: 
 <img src="https://komarev.com/ghpvc/?username=mafee6">  
